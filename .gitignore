@@ -1,0 +1,7 @@
+**__pycache__**
+**__MACOSX**
+**.ipynb_checkpoints**
+*.pt
+*.pkl
+*.pth
+**data/
